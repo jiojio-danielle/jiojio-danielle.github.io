@@ -1,0 +1,65 @@
+<!doctype html>
+<html>
+	<head>
+		<title>My Awesome Website</title>
+		<link href="style.css" rel="stylesheet" type="text/css">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&display=swap" rel="stylesheet">
+	</head>
+	<body>
+		<header>
+			<h1>My Awesome Website</h1>
+			<nav>
+				<ul>
+					<li>
+						<a href="index.html">Home</a>
+					</li>
+					<li>
+						<a href="about.html">About Us</a>
+					</li>
+				</ul>
+			</nav>
+		</header>
+		<main>
+		<!--main content goes here-->
+			
+			<article class="item">
+			<h1>My Awesome Company</h1>
+				<img src="jinx.jpg" alt="Jinx from Arcane">
+				<h2>What we do</h2>
+				<p>Welcome to My Awesome Company.</p>
+				<p>We do all the amazing things that everybody wants.</p>
+<p>We can do some amazing things for you too.</p>
+			</article>
+			
+			<article class="item">
+				<h2>Some of our clients</h2>
+				<ul>
+					<li>Youtube</li>
+					<li>Twitch</li>
+					<li>Tik Tok</li>
+				</ul>
+			</article>
+						<article class="item">
+							<h1>JINX</h1>
+							<h2>One of the main characters in Arcane</h2>
+							<p>Jinx is a character in a show called "Arcane", and a playable character in the game "League of Legends". In said game she is considered a manic, a psycho with a love for blowing things up and shooting at opponets. However in the show we see the other side, a child with an unseen and unchecked mental disorder just trying to survive. We see Powder, a girl who lost her parents to soon, accidently killed her new family and lost her sister, the one person who she felt had the most care for her. This causes the spiral down to a place she may not return from; She becomes Jinx. </p>
+							
+							
+							
+			</article>
+			
+				<article class="item">
+					<h2>Our favourite quote</h2>
+<blockqoute>Curiosity is the wick in the candle of learning
+	- William Arthur Ware</blockqoute>
+			</article>
+<!--end of main content-->
+		</main>
+		<footer>
+			<p>&copy; Copyright 2024. My Awesome Company</p>
+		</footer>
+	</body>
+		</html>
